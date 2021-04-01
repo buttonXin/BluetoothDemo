@@ -1,1 +1,2 @@
+include ':testbluetoothdemo'
 include ':app'
